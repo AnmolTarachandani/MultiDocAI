@@ -1,0 +1,16 @@
+streamlit
+easyocr
+Pillow
+deep-translator
+language-tool-python
+transformers
+torch
+langdetect
+pdfplumber
+python-docx
+striprtf
+odfpy
+pdf2image
+opencv-python-headless
+numpy
+sentencepiece
